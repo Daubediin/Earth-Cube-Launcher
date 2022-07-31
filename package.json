@@ -1,7 +1,7 @@
 {
     "name": "earthcube",
     "preductname": "Earth-Cube",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Luuxis",
