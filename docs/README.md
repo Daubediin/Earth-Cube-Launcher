@@ -63,13 +63,4 @@
 - Accepte toutes versions de Minecraft 1.0 > 1.19.x (Forge, Fabric etc).
 
 ---
-**<p align="center">Configurer votre launcher.</p>**
-
-- [Doc ici](./wiki.md).
-
----
-
-[<p align="center"><img src="https://discordapp.com/api/guilds/819729377650278420/embed.png?style=banner4" alt="discord">](https://discord.gg/YtX2VYfFfY) 
----
-
 
