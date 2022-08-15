@@ -21,8 +21,8 @@
 **Cloner et installer les dépendances**
 
 ```console
-> git clone https://github.com/luuxis/Selvania-Launcher.git
-> cd Selvania-Launcher
+> git clone https://github.com/luuxis/Earth-Cube-Launcher.git
+> cd Earth-Cube-Launcher
 > npm install
 ```
 ---
@@ -69,10 +69,7 @@
 
 ---
 
-[<p align="center"><img src="https://discordapp.com/api/guilds/819729377650278420/embed.png?style=banner4" alt="discord">](https://discord.gg/e9q7Yr2cuQ) 
+[<p align="center"><img src="https://discordapp.com/api/guilds/819729377650278420/embed.png?style=banner4" alt="discord">](https://discord.gg/YtX2VYfFfY) 
 ---
-
-[releases]: https://github.com/luuxis/Selvania-Launcher/releases 'releases'
-[build]: https://github.com/luuxis/Selvania-Launcher/releases 'build'
 
 
